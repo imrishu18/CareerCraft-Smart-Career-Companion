@@ -132,7 +132,7 @@ CareerCraft is a **full-stack AI-powered Smart Career Companion** that helps stu
 
 CareerCraft is built using a modern full-stack ecosystem:  
 
-- **Frontend:** React 19, Next.js 15 (App Router), TailwindCSS, Shadcn UI  
+- **Frontend:** React, Next.js (App Router), TailwindCSS, Shadcn UI  
 - **Backend and Database:** Next.js Server Actions, Prisma ORM, NeonDB (Postgres), Inngest (scheduled tasks)  
 - **Authentication & Security:** Clerk Authentication, JWT, CSP headers, rate limiting, secure CRUD operations  
 - **AI Integration:** Google Gemini API (`gemini-1.5-flash`) for resume, cover letter, and interview prep  
