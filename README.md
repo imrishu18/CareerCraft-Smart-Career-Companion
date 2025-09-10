@@ -137,7 +137,7 @@ CareerCraft is built using a modern full-stack ecosystem:
 - **Authentication & Security:** Clerk Authentication, JWT, CSP headers, rate limiting, secure CRUD operations  
 - **AI Integration:** Google Gemini API (`gemini-1.5-flash`) for resume, cover letter, and interview prep  
 - **Visualization:** Recharts (salary and performance graphs)
-- **Other Tools**: PDF generator (resume download)  
+- **Other Tools**: PDF generator (resume download),Optimized queries & error handling for stability.  
 
 ---
 
