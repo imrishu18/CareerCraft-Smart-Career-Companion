@@ -1,6 +1,6 @@
 # CareerCraft – AI-Powered Smart Career Companion
 
-CareerCraft is a **full-stack AI-powered Smart Career Companion** that helps students and professionals accelerate their career journey with **ATS-optimized resumes, AI-generated cover letters, personalized industry insights, and interactive mock interviews**.  
+CareerCraft is a **full-stack AI-powered Smart Career Companion** that helps students and professionals accelerate their career journey with **ATS-optimized resumes, AI-generated cover letters, personalized industry insights, and interactive mock interviews** - all in one modern platform.  
 
 ---
 
@@ -8,22 +8,26 @@ CareerCraft is a **full-stack AI-powered Smart Career Companion** that helps stu
 - Modern & intuitive **UI/UX** with animated wallpapers and interactive components.  
 - **AI-powered career guidance** tailored to user specialization and experience.  
 - **Industry Insights** with weekly updates on market trends and salaries.  
-- **Smart Resume & Cover Letter Builder** with ATS-optimization and AI improvements.  
+- **Smart Resume & Cover Letter Builder** with ATS-optimization, AI improvements, and downloadable formats.
 - **Interview Preparation** with quizzes, performance analytics, and improvement tips.  
 - Secure **Authentication & Profile Management** with Clerk. 
-- **Performance tracking & analytics** for continuous improvement.  
+- **Performance tracking & analytics** for continuous improvement.
+- Responsive design ensuring seamless access across devices (mobile, tablet, desktop).
+- Scalable architecture with modular components for easy future enhancements.
+- Data privacy & security with protected routes and secure storage.
 
 ---
 
 ## 🔄 Workflow
 1. **Sign Up/Login** – Secure user authentication.  
-2. **Complete Profile** – Fill details such as skills, bio, experience.  
+2. **Complete Profile** – Fill details such as skills, bio, work experience.  
 3. **Access Insights** – Explore industry-specific data and salary trends.  
 4. **Build Resume** – AI-assisted resume builder with editing, saving and downloading features.  
 5. **Create Cover Letters** – Generate tailored cover letters for job applications.  
 6. **Prepare Interviews** – Practice quizzes with AI feedback and track performance.  
 7. **Track Progress** – Monitor analytics and performance graphs.
 8. **Profile Management** – Update name, photo, email, delete account. 
+9. **Stay Updated** – Receive new insights, tips, and personalized career recommendations regularly.
 
 ---
 
@@ -32,6 +36,7 @@ CareerCraft is a **full-stack AI-powered Smart Career Companion** that helps stu
 ### 1. Landing / Home Page  
 - Modern UI with **Get Started** button.  
 - Clean design and welcoming layout.
+- Navigation bar includes Growth Tools (Resume Builder, Cover Letter, Interview Prep) and Industry Insights for quick access.
 ![Home Page](public/Screenshots/HomePage.png)
 
 ### 2. Carousel Wallpaper  
@@ -52,7 +57,7 @@ CareerCraft is a **full-stack AI-powered Smart Career Companion** that helps stu
 ![How It Works](public/Screenshots/HomePage1.png)
 
 ### 5. Testimonials Section  
-- User tweets/testimonials. 
+- User-like testimonials to build trust.
 ![Testimonials](public/Screenshots/Users.png)
 
 ### 6. FAQs & Footer  
@@ -73,19 +78,25 @@ CareerCraft is a **full-stack AI-powered Smart Career Companion** that helps stu
 
 ### 9. Industry Insights Page  
 - Real-time industry outlook, growth, and demand analysis.  
-- Weekly updated data.  
+- Weekly updated data.
+- Helps users stay updated with current job market trends.
 ![Industry Insights](public/Screenshots/IndustryInsights.png)
 
 ### 10. Salary Graph  
-- Interactive graphs showing **min, median, max salary ranges**.  
+- Interactive graphs showing **min, median, max salary ranges**.
+- Helps users set realistic career expectations.
+- Visually clear insights for better decision-making.
+ 
 ![Salary Graph](public/Screenshots/IndustryInsights1.png)
 
 ### 11. Key Industry Trends & Skills  
-- Recommendations for skills to improve career prospects.  
+- Recommendations for skills to improve career prospects.
+- Helps users focus on upskilling strategically.
 ![Trends](public/Screenshots/IndustryInsights2.png)
 
 ### 12. Resume Builder Form  
-- Add/Edit personal info, work experience, education, projects.  
+- Add/Edit personal info, work experience, education, projects.
+- Intuitive form layout for smooth resume building.
 - **AI Improve** button to enhance descriptions.  
 ![Resume Builder](public/Screenshots/ResumeBuilder.png)
 ![Resume Builder2](public/Screenshots/ResumeBuilder2.png)
@@ -93,36 +104,48 @@ CareerCraft is a **full-stack AI-powered Smart Career Companion** that helps stu
 ![Resume Builder4](public/Screenshots/ResumeBuilder4.png)
 
 ### 13. Resume Preview & Save  
-- Edit, preview, and download resumes as **PDF**.  
+- Live form-to-preview editing with real-time updates.
+- Add headings, subheadings, lists, images and links for structured resumes.
+- Option to edit, refine, and customize instantly.
+- Secure save & retrieval for editing later.
+- Save & download resumes as ATS-optimized PDFs.
 ![Resume Preview](public/Screenshots/ResumeBuilder5.png)
 ![Resume Preview1](public/Screenshots/ResumeBuilder6.png)
 
 ### 14. Cover Letter Generator  
-- Fill in job details(job title, description, company) and AI generates a tailored cover letter.  
+- Fill in job details(job title, description, company) and AI generates a tailored cover letter.
+- Saves time and improves chances of selection.
 ![Cover Letter](public/Screenshots/CoverLetters1.png)
 ![Cover Letter2](public/Screenshots/CoverLetters2.png)
 
 ### 15. Manage Cover Letters  
-- View, edit, delete, and create new cover letters.  
+- View, edit, delete, and create new cover letters.
+- Option to quickly create new ones for different job roles.
 ![Cover Letter Management](public/Screenshots/CoverLetters3.png)
 ![Cover Letter Management4](public/Screenshots/CoverLetters4.png)
 
 ### 16. Interview Preparation Dashboard  
-- Past scores, average scores,questions practiced and improvement tips.  
+- Past scores, average scores,questions practiced and improvement tips.
+- Centralized dashboard motivates consistent practice. 
 ![Interview Prep](public/Screenshots/InterviewPrep.png)
 
 ### 17. Performance Trends Graph  
-- Track quiz scores over time with detailed insights.  
+- Graphical insights of quiz performance over time.
+- Detailed breakdown for continuous progress tracking.
+- Clear tracking of strengths and areas to improve.
+![Performance Graph](public/Screenshots/InterviewPrep.png)
 ![Performance Graph](public/Screenshots/InterviewPrep1.png)
 
 ### 18. Quizzes Section  
-- Role-specific questions with explanations and AI feedback(Improvement Tip). 
+- Role-specific questions with explanations and AI feedback(Improvement Tip).
+- AI-generated improvement tips after each attempt to help users sharpen their skills.
 ![Quizzes](public/Screenshots/InterviewPrep2.png)
 ![Quizzes](public/Screenshots/InterviewPrep3.png)
 ![Quizzes4](public/Screenshots/InterviewPrep4.png)
 
 ### 19. Profile Management  
-- Update profile photo, change email, or delete account.  
+- Update profile photo, change email, or delete account.
+- Flexible profile settings improve personalization.
 ![Profile Management](public/Screenshots/Profile.png)
 ![Profile Management](public/Screenshots/Profile1.png)
 
@@ -142,18 +165,18 @@ CareerCraft is built using a modern full-stack ecosystem:
 ---
 
 ## 🚀 Installation & Setup
-1. Clone the repository  
+### 1. Clone the repository 
    ```bash
    git clone https://github.com/imrishu18/CareerCraft-Smart-Career-Companion.git
    cd CareerCraft
    ```
 
-2. Install dependencies  
+### 2. Install dependencies  
    ```bash
    npm install
    ```
 
-3. Setup environment variables (`.env` file)  
+### 3. Setup environment variables (`.env` file)  
    ```env
    DATABASE_URL="postgresql://USER:PASSWORD@HOST/DB?sslmode=require"
    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY="pk_test_xxx"
@@ -167,18 +190,18 @@ CareerCraft is built using a modern full-stack ecosystem:
    GEMINI_API_KEY="your_gemini_api_key"
    ```
    
-4. Setup database
+### 4. Setup database
    ```bash
    npx prisma generate
    npx prisma migrate dev --name init
    ```
    
-5. Run the project  
+### 5. Run the project  
    ```bash
-   npm start
+   npm run dev
    ```
    
-6. Access in browser: `http://localhost:3000`  
+### 6. Access in browser: `http://localhost:3000`  
 
 ---
 
